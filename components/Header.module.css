@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.h1 {
+  margin: 0 0 10px;
+
+  font-size: 32px;
+  font-weight: 700;
+
+  color: green;
+}
+
+.p {
+  max-width: 650px;
+  margin: 0 auto;
+
+  font-size: 16px;
+  line-height: 1.6;
+
+  color: #64748b;
+}
